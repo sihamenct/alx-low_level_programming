@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - combinations of two digits
+* print_alphabet - Function to print alphabet
 * Return: 0 (Success)
 */
 void print_alphabet(void)
